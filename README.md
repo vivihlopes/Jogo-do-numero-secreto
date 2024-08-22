@@ -13,4 +13,4 @@ Bem vindos ao meu projeto Web Carros, inspirado no aprendizado do curso de Javac
 #Acesse
 https://jogonumerosecreto-sepia.vercel.app/
 
-<img src="imagemdojogo" alt="Screenshot do Jogo do Número Secreto" />
+<img src="./imgagem/do/jogo.png" alt>
