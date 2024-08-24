@@ -13,5 +13,5 @@ Bem vindos ao meu projeto Web do número secreto, inspirado no aprendizado do cu
 #Acesse
 https://jogonumerosecreto-sepia.vercel.app/
 
-    <img src="./img/ia.png" alt="Uma pessoa olhando para a esquerda" class="container__imagem-pessoa" />
+ 
 
