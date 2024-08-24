@@ -8,9 +8,10 @@
 </div>
 
 #Descrição
-Bem vindos ao meu projeto Web Carros, inspirado no aprendizado do curso de Javacrispt. O site contém funcionalidades de um jogo do numero secreto.
+Bem vindos ao meu projeto Web do número secreto, inspirado no aprendizado do curso de Javacrispt. O site contém funcionalidades de um jogo do numero secreto.
 
 #Acesse
 https://jogonumerosecreto-sepia.vercel.app/
 
-<img src="./imgagem/do/jogo.png" alt>
+    <img src="./img/ia.png" alt="Uma pessoa olhando para a esquerda" class="container__imagem-pessoa" />
+
